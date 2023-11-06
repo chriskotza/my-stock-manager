@@ -1,6 +1,6 @@
 # My Stock Manager for WooCommerce
 
-**My Stock Manager** is a WordPress plugin specifically designed for WooCommerce stores. It simplifies the process of managing stock levels for products sold in physical stores, ensuring that online inventory remains accurate and up-to-date. With a user-friendly interface in the WooCommerce admin section, store managers can easily adjust stock quantities based on in-store sales, returns, or other stock changes.
+**My Stock Manager** is a WordPress plugin specifically designed for WooCommerce stores. It simplifies the process of managing stock levels for products sold in physical stores, ensuring that online inventory remains accurate and up-to-date.
 
 ## Key Features
 
