@@ -1,0 +1,62 @@
+/* my-stock-manager-styles.css */
+
+.wrap {
+    font-family: Arial, sans-serif;
+}
+
+.form-table th, 
+.form-table td {
+    padding: 10px 15px;
+}
+
+.form-table input[type="text"],
+.form-table input[type="number"],
+.form-table select {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-table button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    margin: 5px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form-table button:hover {
+    background-color: #45a049;
+}
+
+.history-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.history-table, 
+.history-table th, 
+.history-table td {
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.history-table th, 
+.history-table td {
+    padding: 12px;
+}
+
+.history-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.history-table th {
+    background-color: #4CAF50;
+    color: white;
+}
